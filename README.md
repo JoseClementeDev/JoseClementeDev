@@ -1,12 +1,18 @@
-![José Clemente - Software Architect](https://raw.githubusercontent.com/JoseClementeDev/JoseClementeDev/main/profile-banner.png
-)
+![José Clemente - Arquitecto de Software](https://raw.githubusercontent.com/JoseClementeDev/JoseClementeDev/main/profile-banner.png)
 
 # José Clemente
-- Soy Arquitecto de Software y Desarrollador Backend
 
-## Habilidades y experiencia
-- Arquitectura de Software / Microservicios
-- Desarrollo de software .NET C#
-- JavaScript, TypeScript y Node.js
-- Base de datos SQL y NoSQL
-- Amazon Web Services (AWS), Docker, Jenkins
+🎯 **Arquitecto de Software** | **Backend Developer**
+
+Especializado en microservicios, AWS y .NET, con más de 10 años de experiencia en desarrollo y más de 5 diseñando soluciones confiables y seguras en la nube.
+
+---
+
+## 💼 Habilidades técnicas
+
+- 🧩 **Arquitectura de software:** Microservicios · Clean Architecture · DDD · CQRS
+- 💻 **Lenguajes y frameworks:** .NET (C#, ASP.NET) · JavaScript / TypeScript · Node.js
+- 🛢️ **Bases de datos:** SQL Server · PostgreSQL · Redis · DynamoDB
+
+- ☁️ **AWS:** Lambda · API Gateway · S3 · CloudWatch · ECS · y más
+- 🛠️ **DevOps:** CI/CD · Docker · Jenkins · CloudFormation
